@@ -14,11 +14,7 @@
 172.31.49.45
 172.31.67.34
 
-[myubuntuservers]
-172.31.19.200
 
-[myredhatservers]
-172.31.16.30
 
 
 [mywebservers:vars]
