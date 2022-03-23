@@ -6,13 +6,7 @@
 172.31.16.30
 
 
-[myapplicationservers]
-172.31.30.89
-172.31.78.89
 
-[mydbservers]
-172.31.49.45
-172.31.67.34
 
 [myubuntuservers]
 172.31.19.200
