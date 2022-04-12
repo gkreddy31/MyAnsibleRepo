@@ -1,5 +1,0 @@
----
-# tasks file for tomrole
-- include_task: installjava.yml
-- include_task: createtomcayuser.yml
-- include_task: UpdatePermissions.yml

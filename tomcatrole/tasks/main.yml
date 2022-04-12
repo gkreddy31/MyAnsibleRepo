@@ -4,4 +4,10 @@
 - include_task: createtomcatgroup.yml
 - include_task: installtomcat.yml
 - include_task: UpdatePermissions.yml
+- include_task: tomcatservice.yml
+- include_task: starttomcat.yml
+- include_task: TomcatWebmanage.yml
+- include_task: restarttomcat.yml
+- include_task: deployjavaapplication.yml
+- include_task: restarttomcat.yml
 
